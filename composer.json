@@ -1,0 +1,18 @@
+{
+  "name": "dzangalis/to-do",
+  "autoload": {
+    "psr-4": {
+      "Warehouse\\": "Warehouse"
+    }
+  },
+  "authors": [
+    {
+      "name": "dzangalis",
+      "email": "dzangalis@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/console": "^5.4",
+    "nesbot/carbon": "^2.72"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "access_code": "1234"
+    },
+    {
+      "access_code": "5678"
+    }
+  ]
+}
